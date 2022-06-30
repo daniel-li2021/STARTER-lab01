@@ -7,7 +7,7 @@
 #include "linkedListFuncs.h"
 
 LinkedList * arrayToLinkedList(int *a, int size) {
-  
+  //daniel
   LinkedList * list = new LinkedList;
 
   list->head=nullptr; 
